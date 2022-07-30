@@ -1,4 +1,4 @@
-# Crime-Patterns-Analysis-and-Prediction-GP-
+# Crime-Patterns-Analysis-and-Prediction-GP
 
 [Group Graduation Project]
 
